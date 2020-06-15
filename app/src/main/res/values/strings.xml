@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestFCM</string>
+    <string name="init">Init</string>
+</resources>
